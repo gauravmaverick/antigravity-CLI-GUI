@@ -1,7 +1,11 @@
 {
-  "name": "antigravity-consumer-app",
-  "private": true,
-  "version": "0.0.0",
+  "name": "antigravity-cli-gui",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gauravmaverick/antigravity-CLI-GUI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gauravmaverick/antigravity-CLI-GUI.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",

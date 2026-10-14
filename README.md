@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-gauravmaverick%2Fantigravity--CLI--GUI-181717.svg?logo=github)](https://github.com/gauravmaverick/antigravity-CLI-GUI)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gauravmaverick/antigravity-CLI-GUI/blob/main/LICENSE)
 [![React](https://img.shields.io/badge/React-19.x-61dafb.svg?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6.x-646cff.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -110,8 +111,8 @@ graph TD
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/antigravity-consumer-app.git
-   cd antigravity-consumer-app
+   git clone https://github.com/gauravmaverick/antigravity-CLI-GUI.git
+   cd antigravity-CLI-GUI
    ```
 
 2. **Install dependencies**:
@@ -185,14 +186,14 @@ By default, the backend bridge spawns Antigravity with the `--sandbox` flag:
 ---
 
 ## 🤝 Contributing & Community
-
+ 
 Feel free to copy, fork, adapt, or build upon this project for your own executive or personal AI workflows!
 
-- **Found a bug or have an idea?** Open an issue or start a discussion.
-- **Want to contribute?** Pull requests are warmly welcomed — whether it's building zero-config MCP onboarding, adding new provider widgets, or polishing the desktop experience.
+- **Found a bug or have an idea?** [Open an issue](https://github.com/gauravmaverick/antigravity-CLI-GUI/issues) or start a discussion.
+- **Want to contribute?** [Pull requests](https://github.com/gauravmaverick/antigravity-CLI-GUI/pulls) are warmly welcomed — whether it's building zero-config MCP onboarding, adding new provider widgets, or polishing the desktop experience.
 
 ---
 
 ## 📄 License
 
-This project is open-source and licensed under the [MIT License](LICENSE).
+This project is open-source and licensed under the [MIT License](https://github.com/gauravmaverick/antigravity-CLI-GUI/blob/main/LICENSE).
